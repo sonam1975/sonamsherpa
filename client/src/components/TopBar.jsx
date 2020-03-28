@@ -19,12 +19,24 @@ const TopBar = () => {
   return (
     <div>
       <Header>Sonam Sherpa </Header>
-      <A href="https://github.com/sonam1975">Github</A>
+      <A href="https://github.com/sonam1975" target="_blank">
+        Github
+      </A>
       <br></br>
-      <A href="https://www.linkedin.com/in/sonam-sherpa1/">LinkedIn</A>
+      <A href="https://www.linkedin.com/in/sonam-sherpa1/" target="_blank">
+        LinkedIn
+      </A>
 
       <br></br>
       <A>✉️ sonam1975@hotmail.com </A>
+      <br></br>
+      <A
+        href="https://portfolio9841.s3.us-east-2.amazonaws.com/myresume.pdf
+"
+        target="_blank"
+      >
+        My Resume
+      </A>
       <br></br>
       <Header>#Projects</Header>
       <ProjectName>1. MyPad</ProjectName>
