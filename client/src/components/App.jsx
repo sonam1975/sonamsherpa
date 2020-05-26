@@ -8,7 +8,6 @@ const App = () => {
   return (
     <Wrapper>
       <Img />
-      <TopBar />
     </Wrapper>
   );
 };
